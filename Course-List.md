@@ -25,4 +25,7 @@
 ### Higher School of Economics
 <ul>
 <li>Introduction to Deep Learning(<i>In Progress</i>)</li>
+<li>Natural Language Processing(<i>In Progress</i>)</li>
+
+
 </ul>
